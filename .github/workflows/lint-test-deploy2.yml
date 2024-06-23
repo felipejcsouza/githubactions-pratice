@@ -1,4 +1,4 @@
-name: Lint, Test & Deploy on push
+name: Lint, Test & Deploy on push - jobs separados
 on: push
 jobs:
   lint:
